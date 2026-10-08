@@ -90,3 +90,7 @@ Estudiante de Ingeniería en Informática
 Desarrollo Full Stack II  
 Duoc UC  
 2026
+
+## Vista del portafolio
+
+![Vista principal del portafolio](public/images/captura-portafolio.png)
