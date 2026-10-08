@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portafolio-luna-Bustamante/static/css/main.4f5b0b2b.css",
-    "main.js": "/portafolio-luna-Bustamante/static/js/main.dd28fd10.js",
+    "main.js": "/portafolio-luna-Bustamante/static/js/main.a1b98047.js",
     "static/js/845.f8e17561.chunk.js": "/portafolio-luna-Bustamante/static/js/845.f8e17561.chunk.js",
     "index.html": "/portafolio-luna-Bustamante/index.html",
     "main.4f5b0b2b.css.map": "/portafolio-luna-Bustamante/static/css/main.4f5b0b2b.css.map",
-    "main.dd28fd10.js.map": "/portafolio-luna-Bustamante/static/js/main.dd28fd10.js.map",
+    "main.a1b98047.js.map": "/portafolio-luna-Bustamante/static/js/main.a1b98047.js.map",
     "845.f8e17561.chunk.js.map": "/portafolio-luna-Bustamante/static/js/845.f8e17561.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f5b0b2b.css",
-    "static/js/main.dd28fd10.js"
+    "static/js/main.a1b98047.js"
   ]
 }
