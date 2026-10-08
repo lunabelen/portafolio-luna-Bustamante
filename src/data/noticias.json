@@ -4,20 +4,20 @@
     "title": "Consejos para comenzar en el desarrollo web",
     "date": "12 de septiembre de 2026",
     "content": "Recursos y recomendaciones para quienes están empezando en este camino.",
-    "image": "/images/news-web.png"
+    "image": "images/news-web.png"
   },
   {
     "id": 2,
     "title": "La importancia de las mujeres en tecnología",
     "date": "5 de septiembre de 2026",
     "content": "Experiencias e inspiración sobre el rol de las mujeres en el mundo TI.",
-    "image": "/images/news-women.png"
+    "image": "images/news-women.png"
   },
   {
     "id": 3,
     "title": "Mi camino en la programación",
     "date": "28 de agosto de 2026",
     "content": "Reflexiones sobre lo aprendido, los desafíos y lo que viene.",
-    "image": "/images/news-code.png"
+    "image": "images/news-code.png"
   }
 ]

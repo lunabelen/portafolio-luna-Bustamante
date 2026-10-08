@@ -18,7 +18,7 @@ function ProjectsSection() {
         <Row className="g-4">
           <Col lg={4} md={6}>
             <ProjectCard
-              image="/images/techstore.png"
+              image="images/techstore.png"
               title="Tech Store"
               description="Tienda online de productos tecnológicos con catálogo, carrito de compras y validaciones de usuario."
               technologies={['HTML', 'CSS', 'JavaScript', 'Bootstrap']}
@@ -28,7 +28,7 @@ function ProjectsSection() {
 
           <Col lg={4} md={6}>
             <ProjectCard
-              image="/images/techwomen.png"
+              image="images/techwomen.png"
               title="TechWomen Match"
               description="Plataforma para conectar y empoderar mujeres en tecnología, comparando habilidades y oportunidades."
               technologies={['PL/SQL', 'Base de Datos', 'Oracle APEX']}
@@ -38,7 +38,7 @@ function ProjectsSection() {
 
           <Col lg={4} md={6}>
             <ProjectCard
-              image="/images/saludtotal.png"
+              image="images/saludtotal.png"
               title="SaludTotal"
               description="Aplicación móvil en Kotlin para gestionar boxes de atención, pacientes, tarifas y registros clínicos."
               technologies={['Kotlin', 'POO', 'App móvil']}

@@ -9,11 +9,19 @@ function HeroSection() {
       <Container>
         <Row className="align-items-center hero-row">
           <Col lg={6} className="hero-copy">
-            <div className="hero-eyebrow">DESARROLLO WEB · TECNOLOGÍA · SOLUCIONES ♡</div>
+            <div className="hero-eyebrow">
+              DESARROLLO WEB · TECNOLOGÍA · SOLUCIONES ♡
+            </div>
 
             <h1 className="hero-title">PORTAFOLIO</h1>
-            <p className="hero-signature">Luna Bustamante ♡</p>
-            <p className="hero-role">Estudiante de Ingeniería en Informática</p>
+
+            <p className="hero-signature">
+              Luna Bustamante ♡
+            </p>
+
+            <p className="hero-role">
+              Estudiante de Ingeniería en Informática
+            </p>
 
             <p className="hero-description">
               Me apasiona la tecnología y el desarrollo web, y creo en el poder de las
@@ -22,10 +30,18 @@ function HeroSection() {
             </p>
 
             <div className="hero-actions d-flex flex-wrap gap-3">
-              <PortfolioButton href="#proyectos" className="hero-primary-btn">
+              <PortfolioButton
+                href="#proyectos"
+                className="hero-primary-btn"
+              >
                 Ver mis proyectos <span aria-hidden="true">→</span>
               </PortfolioButton>
-              <PortfolioButton href="#sobre-mi" variant="outline-primary" className="hero-secondary-btn">
+
+              <PortfolioButton
+                href="#sobre-mi"
+                variant="outline-primary"
+                className="hero-secondary-btn"
+              >
                 Conóceme ♡
               </PortfolioButton>
             </div>
@@ -41,15 +57,24 @@ function HeroSection() {
             <div className="hero-art-card">
               <div className="hero-blob hero-blob-one"></div>
               <div className="hero-blob hero-blob-two"></div>
+
               <div className="hero-doodle hero-heart">♡</div>
               <div className="hero-doodle hero-lines">≋</div>
+
               <img
-                src="/images/hero-luna.png"
+                src="images/hero-luna.png"
                 alt="Ilustración de Luna Bustamante trabajando frente a su computador"
                 className="hero-illustration"
               />
+
               <div className="hero-sticky-note">
-                DISCIPLINA<br />IDEAS<br />SOLUCIONES<br />PERSONAS ♡
+                DISCIPLINA
+                <br />
+                IDEAS
+                <br />
+                SOLUCIONES
+                <br />
+                PERSONAS ♡
               </div>
             </div>
           </Col>

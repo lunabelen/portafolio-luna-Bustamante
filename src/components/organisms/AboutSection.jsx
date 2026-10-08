@@ -17,7 +17,7 @@ function AboutSection() {
           <Col lg={4}>
             <div className="about-portrait-wrap">
               <img
-                src="/images/about-luna.png"
+                src="images/about-luna.png"
                 alt="Ilustración de Luna Bustamante"
                 className="about-portrait"
               />
@@ -29,6 +29,7 @@ function AboutSection() {
           <Col lg={5}>
             <div className="about-copy">
               <h2>Sobre mí <span aria-hidden="true">—</span></h2>
+
               <p>
                 Soy estudiante de Ingeniería en Informática. Me interesa seguir
                 aprendiendo, desarrollar soluciones digitales y aportar con tecnología
@@ -38,7 +39,9 @@ function AboutSection() {
               <div className="about-values">
                 {values.map(([icon, label]) => (
                   <div className="about-value" key={label}>
-                    <span className="about-value-icon" aria-hidden="true">{icon}</span>
+                    <span className="about-value-icon" aria-hidden="true">
+                      {icon}
+                    </span>
                     <span>{label}</span>
                   </div>
                 ))}
@@ -49,7 +52,15 @@ function AboutSection() {
           <Col lg={3}>
             <div className="about-note">
               <span className="note-clip" aria-hidden="true">⌇</span>
-              LA TECNOLOGÍA<br />TAMBIÉN<br />PUEDE HACER<br />UN MUNDO<br />MÁS HUMANO ♡
+              LA TECNOLOGÍA
+              <br />
+              TAMBIÉN
+              <br />
+              PUEDE HACER
+              <br />
+              UN MUNDO
+              <br />
+              MÁS HUMANO ♡
             </div>
           </Col>
         </Row>
